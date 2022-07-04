@@ -44,6 +44,9 @@ h1 {
 
 .body-section {
     display: flex;
+    background-image: url(images/shapes/7.png);
+    background-position: right;
+    background-position: left;
 }
 
 .person-girl img {
@@ -54,4 +57,12 @@ h1 {
 
 .about-me {
     padding-top: 100px;
+}
+
+.contact-me {
+    padding-top: 80px;
+}
+
+.aboutMe {
+    color: rgb(106, 87, 87);
 }
