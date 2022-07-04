@@ -1,6 +1,7 @@
 body {
     font-family: 'Lato', sans-serif;
     font-family: 'Montserrat', sans-serif;
+    background-color: ghostwhite;
 }
 
 .orange-color {
@@ -29,4 +30,12 @@ body {
 
 h1 {
     font-size: 50px;
+}
+
+.order-button {
+    padding: 20px 30px;
+    background-image: linear-gradient(orange, tomato);
+    width: 100px;
+    border-radius: 25px;
+    color: white;
 }
