@@ -1,0 +1,32 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.header-top {
+    display: flex;
+}
+
+.skip-diet {
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.skip-diet img {
+    width: 80%;
+
+}
+
+#header {
+    padding-top: 80px;
+
+}
+
+h1 {
+    font-size: 50px;
+}
