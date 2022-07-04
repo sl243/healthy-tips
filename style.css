@@ -66,3 +66,31 @@ h1 {
 .aboutMe {
     color: rgb(106, 87, 87);
 }
+
+.my-recipie {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.recipie-title {
+    display: flex;
+
+}
+
+.food-recipie {
+    border: 1px solid gainsboro;
+    border-radius: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+
+
+
+}
+
+.food-recipie img {
+    width: 700px;
+    height: 400px;
+}
