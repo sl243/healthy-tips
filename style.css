@@ -87,11 +87,6 @@ h1 {
     background-color: white;
 }
 
-.food-recipie img {
-    width: 600px;
-    height: 400px;
-}
-
 .youtube-body {
     display: flex;
     margin: 80px;
